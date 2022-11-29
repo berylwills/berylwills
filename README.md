@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @berylwills
-- 👀 I’m interested in Android Applications Development
-- 🌱 I’m currently learning Kotlin as my first/basic programming language
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Naomi Willie
+- 👀 I’m interested in develping websites and Applications. I'm familiar with HTML, CSS and Flutter
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on building the frontend of websites
 - 📫 How to reach me ...
 
 <!---
