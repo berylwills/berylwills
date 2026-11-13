@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naomi Willie
 - 👀 I’m a QA Engineer with 3yrs experience in Fintech Industry
-- 💞️ I’m looking to collaborate on building and validating software application and websites, and to expand into other industries
+- 💞️ I’m looking to collaborate on building and validating software applications and websites in the FinTech space, and to expand into other industries.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/naomiwilliep/)
 
 <!---
